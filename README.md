@@ -1,7 +1,8 @@
 # Fake News Detection and Text Analysis: A Natural Language Processing Project
 
 Assignment Overview:
-The assignment involves analyzing a dataset containing fake news and real news articles using techniques learned in the course. The dataset used is the ISOT Fake News Dataset, which includes articles collected from Reuters.com (real news) and various sources flagged by Politifact and Wikipedia (fake news). There are approximately 12,600 articles in total, saved in two CSV files: "True.csv" and "Fake.csv." Each article includes information such as the title, text, type, and publication date.
+The assignment involves analyzing a dataset containing fake news and real news articles using techniques learned in the course. The dataset used is the ISOT Fake News Dataset, which includes articles collected from Reuters.com (real news) and various sources flagged by Politifact and Wikipedia (fake news). There are approximately 12,600 articles in total, saved in two CSV files: "True.csv" and "Fake.csv." Each article includes information such as the title, text, type, and publication date. Specifically, each article contains the following information: article title, text, type and the date the article was published on. 
+You can read more about this dataset and download it from Kaggle web site: https://www.kaggle.com/datasets/emineyetm/fakenews-detection-datasets
 
 **Tasks:**
 
