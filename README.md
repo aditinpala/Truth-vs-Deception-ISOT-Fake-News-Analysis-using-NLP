@@ -18,8 +18,13 @@ List the top 50 content words by frequency in fake news articles and real news a
 List the top 50 bigrams by frequency in fake news articles and real news articles.
 List the top 50 bigrams by their Mutual Information scores (using a minimum frequency of 5) in fake news articles and real news articles.
 List the top 50 adjective words in fake news articles and real news articles.
-For each article, calculate and record various statistics, including the total number of words, total number of content words, total number of words that are all capitalized (excluding "I"), total number of exclamation marks, and total number of punctuation marks. Save this information in CSV files by creating new columns.
-Interpretation of Results:
+
+
+For each article, calculate and record various statistics:
+including the total number of words, total number of content words, total number of words that are all capitalized (excluding "I"), total number of exclamation marks, and total number of punctuation marks. Save this information in CSV files by creating new columns.
+
+
+**Interpretation of Results:**
 
 Compare the analysis results between true news articles and fake news articles.
 Provide explanations for any patterns or differences observed in the results. For example, discuss whether they tend to have a similar ratio of capitalized words.
