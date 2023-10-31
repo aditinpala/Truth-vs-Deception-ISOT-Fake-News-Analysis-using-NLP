@@ -31,10 +31,4 @@ Compare the analysis results between true news articles and fake news articles.
 Provide explanations for any patterns or differences observed in the results. For example, discuss whether they tend to have a similar ratio of capitalized words.
 Conduct additional analyses that help understand the results.
 
-**Submission Requirements:**
 
-Submit the Jupyter Notebook file with code and comments.
-Ensure that the code is run, and results are displayed.
-Name variables thoughtfully to make it intuitive for readers to understand the code's logic.
-Include text blocks that describe the data pre-processing tasks and interpret the analysis results.
-Submit two revised CSV files containing the analysis results.
